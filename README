@@ -1,0 +1,5 @@
+git init .   (only first time)
+git add .
+git remote add origin https://sidb82@github.com/sidb82/socket  (only first time)
+git commit -m "Initial Commit"
+git push origin master

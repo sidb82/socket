@@ -1,5 +1,8 @@
 git init .   (only first time)
-git add .
 git remote add origin https://sidb82@github.com/sidb82/socket  (only first time)
+git config --global user.email "sidb82@github.com"
+git config --global user.name "Sid"
+
+git add .
 git commit -m "Initial Commit"
 git push origin master

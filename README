@@ -8,3 +8,8 @@ git config --global user.name "Sid"
 git add .
 git commit -m "Initial Commit"
 git push origin master
+
+To pull a new repo
+------------------
+git clone https://sidb82@github.com/sidb82/socket.gitCloning into 'socket'...
+
